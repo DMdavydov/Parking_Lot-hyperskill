@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/build/
+/Parking Lot/task/out/
+/Parking Lot/task/out/production/classes/
+/Problems/Between two numbers/out/
+/Problems/Between two numbers/out/production/classes/
+/Problems/Cause an exception/out/
+/Problems/Cause an exception/out/production/classes/
+/Problems/Max values of integer types/out/
+/Problems/Max values of integer types/out/production/classes/
+/Problems/Patient needs a doctor/out/
+/Problems/Patient needs a doctor/out/production/classes/
+/Problems/The minimum value of N numbers/out/
+/Problems/The minimum value of N numbers/out/production/classes/
